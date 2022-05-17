@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 669A-B3B7
+
+ Directory of C:\Users\poyra\Desktop\MyProject
+
+17.05.2022  20:19    <DIR>          .
+17.05.2022  20:19    <DIR>          ..
+17.05.2022  20:19                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  799.708.811.264 bytes free
